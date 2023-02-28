@@ -15,5 +15,10 @@ public class Programa {
         System.out.println(minhaconta.numero);
         System.out.println(minhaconta.titular);
         System.out.println(minhaconta.saldo);
+
+        System.out.println(minhaconta2.numero);
+        System.out.println(minhaconta2.titular);
+        System.out.println(minhaconta2.saldo);
+
     }
 }
