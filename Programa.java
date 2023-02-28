@@ -12,5 +12,8 @@ public class Programa {
         minhaconta2.titular="Selene Bitto";
         minhaconta2.saldo=2000;
 
+        System.out.println(minhaconta.numero);
+        System.out.println(minhaconta.titular);
+        System.out.println(minhaconta.saldo);
     }
 }
