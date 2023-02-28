@@ -7,10 +7,10 @@ public class Programa {
         minhaconta.saldo=100;
 
         conta minhaconta2;
-        minhaconta = new conta();
-        minhaconta.numero=2;
-        minhaconta.titular="Selene Bitto";
-        minhaconta.saldo=2000;
+        minhaconta2 = new conta();
+        minhaconta2.numero=2;
+        minhaconta2.titular="Selene Bitto";
+        minhaconta2.saldo=2000;
 
     }
 }
